@@ -1,0 +1,10 @@
+arcade==2.4.3
+attrs==21.2.0
+cffi==1.15.0
+numpy==1.21.4
+Pillow==8.4.0
+pycparser==2.21
+pyglet==1.5.21
+pymunk==5.7.0
+pytiled-parser==0.9.4a3
+PyYAML==6.0
